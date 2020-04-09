@@ -6,6 +6,7 @@ Example repository to create an environment with TSudio and course materials.
 ## Try it on Binder
 
 Jupyter+R: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/plasmabio/template-rstudio/master?urlpath=lab)
+
 RStudio: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/plasmabio/template-rstudio/master?urlpath=rstudio)
 
 
